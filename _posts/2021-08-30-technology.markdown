@@ -1,4 +1,4 @@
-
+---
 title:  "Technology"
 date:   2021-08-20 14:42:29 -0400
 categories: tech
